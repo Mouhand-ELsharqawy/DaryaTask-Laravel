@@ -17,7 +17,8 @@
     php artisan serve
 
     
-## run the test using php artisan test 
+## run the tests
+    run in the terminal php artisan test
     here you will find suitable tests for authenticated and unauthenticated routes
     
 
